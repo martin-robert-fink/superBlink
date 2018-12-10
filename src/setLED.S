@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Unlicense
+# Copyright (c) 2018 Western Digital Corporation or its affiliates.
+
 .section .text
 .align 2
 .globl setLED

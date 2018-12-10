@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Unlicense
+# Copyright (c) 2018 Western Digital Corporation or its affiliates.
+
 .equ GPIO_OUTPUT_EN,    0x008
 .equ GPIO_OUTPUT_VAL,   0x00C
 .equ GPIO_OUTPUT_XOR,   0x040
