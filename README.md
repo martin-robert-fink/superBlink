@@ -1,4 +1,4 @@
-<h1>superBlink RISC-V Assembly Lnaguage Project</h1>
+<h1>superBlink RISC-V Assembly Language Project</h1>
 
 <h2>Source Files</h2>
 
